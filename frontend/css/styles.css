@@ -261,3 +261,11 @@ input[type="number"] {
   padding: 16px;
   margin-bottom: 30px;
 }
+
+.container.adventure .content .heading {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
